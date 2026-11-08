@@ -1,0 +1,2 @@
+# Design-and-Analysis-of-Optimized-Multi-Mode-Taps-FIR-Filters-Using-Xilinx-Vivado-and-MATLAB
+Multi-mode 4-10 tap FIR filters (LPF/HPF/BPF/BSF) in Verilog, implemented on Xilinx Vivado and the Nexys A7-100T FPGA, with MATLAB-generated fixed-point coefficients. Compares optimized (coefficient symmetry, pipelining, clock-enable, balanced adder tree) and non-optimized designs: up to 45.75% less delay and 4.44% less power.
